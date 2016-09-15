@@ -4,7 +4,7 @@ from zenpy import Zenpy
 
 creds = {
     'email' : 'jonb@everstring.com',
-    'token' : '58xAJP6nqEH1FcQvPNeapvSskSUUQMDpmhkiru6U',
+    'token' : 'addyourtokenhere',
     'subdomain': 'everstring'
 }
 
