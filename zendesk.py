@@ -3,9 +3,9 @@
 from zenpy import Zenpy
 
 creds = {
-    'email' : 'jonb@everstring.com',
+    'email' : 'user@example.com',
     'token' : 'addyourtokenhere',
-    'subdomain': 'everstring'
+    'subdomain': 'yourzendesksubdomain'
 }
 
 
